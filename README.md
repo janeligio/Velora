@@ -69,6 +69,7 @@ Root
 ## 🚀 Future Plans
 
 - Admin page
+- Banner markings
 - Log every API request (for observability).
 - Add session ID tracking.
 - Add frontend error logging.
