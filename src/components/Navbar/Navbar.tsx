@@ -42,6 +42,11 @@ const Navbar: React.FC = () => {
               Contact
             </Link>
           </li>
+          <li>
+            <Link to="/table-example" className="hover:underline">
+              Table Example
+            </Link>
+          </li>
           {user ? (
             <li className="relative" ref={dropdownRef}>
               <button
